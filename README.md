@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring full stack developer and enthusiastic hackathon participant</h3>
 <h3 align="center">
 <!-- <a href="https://kandavel.surge.sh" target="blank"><img align="center" src="https://mir-s3-cdn-cf.behance.net/projects/404/aa8a2b94014737.Y3JvcCwzMzY2LDI2MzMsMCww.png" alt="kandavel" height="50" width="50" /></a> -->
-<a href="https://www.linkedin.com/in/sujink" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ak5123/" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/sujink" target="blank"><img align="center" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/sujink/" height="50" width="50" /></a>
 </h3>
 
 <img align="right" alt="GIF" src="https://www.damiestechnologies.com/img/programmer.gif" width="320" height="280" />
