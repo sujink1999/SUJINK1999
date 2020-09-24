@@ -17,7 +17,7 @@
 
 - ⚡ Active hackathon participant
 
-- Currently working on **Augmented Reality**
+- 🔨 Currently working on **Augmented Reality**
 
 ### Featured at The Hindu for my solution at Ramco Hackathon
 
