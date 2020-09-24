@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Android  Flutter  NodeJS**
 
-- 📫 How to reach me **lksujins@gmail.com**
+- 📫 Reach me at **lksujins@gmail.com**
 
 - 📝 [Resume](https://github.com/sujink1999/Resume/blob/master/Sujin%20K%20-%20Resume.pdf)
 
