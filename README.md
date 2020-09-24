@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lksujins@gmail.com**
 
-- 📝 [Resume]()
+- 📝 [Resume](https://github.com/sujink1999/Resume/blob/master/Sujin%20K%20-%20Resume.pdf)
 
 - ⚡ Active hackathon participant
 
