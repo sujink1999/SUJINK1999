@@ -9,7 +9,7 @@
 
 - 🗣️ Active member of Android Developers Community, Flutter Developers Community and Ramco nuthouse 
 
-- 💬 Ask me about **Android  Flutter  NodeJS**
+- 💬 Ask me about **Android  Flutter  ReactJS  NodeJS**
 
 - 📫 Reach me at **lksujins@gmail.com**
 
