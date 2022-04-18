@@ -1,5 +1,5 @@
 <h1 align="center">Hey there <img src="https://media.tenor.com/images/aadee35242e901eb394dcf5680ba5acb/tenor.gif" width="35px" />, I'm SUJIN K</h1>
-<h3 align="center">Aspiring full stack developer and enthusiastic hackathon participant</h3>
+<h3 align="center">Full stack developer who's part of the web3 revolution</h3>
 <h3 align="center">
 <a href="https://sujin.surge.sh" target="blank"><img align="center" src="https://mir-s3-cdn-cf.behance.net/projects/404/aa8a2b94014737.Y3JvcCwzMzY2LDI2MzMsMCww.png" alt="sujin" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/sujink" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/sujink/" height="50" width="50" /></a>
@@ -7,26 +7,16 @@
 
 <img align="right" alt="GIF" src="https://www.damiestechnologies.com/img/programmer.gif" width="320" height="280" />
 
-- 🗣️ Active member of Android Developers Community, Flutter Developers Community and Ramco nuthouse 
 
-- 💬 Ask me about **Android  Flutter  ReactJS  NodeJS**
+### Technologies I've worked on
+<p align="left" > 
 
-- 📫 Reach me at **lksujins@gmail.com**
-
-- 📝 [Resume](https://github.com/sujink1999/Resume/blob/master/Sujin's%20Resume.pdf)
-
-- ⚡ Active hackathon participant
-
-- 🔨 Currently working on **Augmented Reality**
-
-### Featured at The Hindu for my solution at Ramco Hackathon
-
-[How tech geeks battled it out at Ramco Systems’ hackathon event
-](https://www.thehindu.com/sci-tech/technology/thinking-in-java/article30494245.ece)
-
-
-### Technologies
-<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   
 <img src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-android-studio-appjoy-25.png" alt="android-studio" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="android" width="40" height="40"/> 
@@ -46,13 +36,6 @@
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="mongodb" width="40" height="40"/>   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
