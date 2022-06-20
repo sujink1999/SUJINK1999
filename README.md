@@ -1,4 +1,4 @@
-<h1 align="center">Hey there <img src="https://media.tenor.com/images/aadee35242e901eb394dcf5680ba5acb/tenor.gif" width="35px" />, I'm SUJIN K</h1>
+<h1 align="center">Hey there <img src="https://media.tenor.com/images/aadee35242e901eb394dcf5680ba5acb/tenor.gif" width="35px" height="35px"/>, I'm SUJIN K</h1>
 <h3 align="center">Full stack developer who's part of the web3 revolution</h3>
 <h3 align="center">
 <a href="https://sujin.surge.sh" target="blank"><img align="center" src="https://mir-s3-cdn-cf.behance.net/projects/404/aa8a2b94014737.Y3JvcCwzMzY2LDI2MzMsMCww.png" alt="sujin" height="50" width="50" /></a>
