@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Sujin K — builds products people feel" width="100%" />
+<img src="assets/banner.svg?v=2" alt="Sujin K — builds products people feel" width="100%" />
 
 <p align="center"><img src="assets/divider.svg" width="760" height="1" alt="" /></p>
 
