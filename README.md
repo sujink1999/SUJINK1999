@@ -32,7 +32,7 @@
 <p align="center"><img src="assets/divider.svg" width="760" height="1" alt="" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujink1999&show_icons=false&hide_rank=true&include_all_commits=true&count_private=true&bg_color=000000&text_color=8a8a8a&title_color=ffffff&border_color=1a1a1a&border_radius=16" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/sujink1999/SUJINK1999/output/stats.svg" alt="GitHub stats" />
 </p>
 
 <p align="center">
