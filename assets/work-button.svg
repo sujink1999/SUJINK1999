@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 44" width="190" height="44">
+  <defs>
+    <radialGradient id="spot" cx="0.5" cy="0" r="1">
+      <stop offset="0" stop-color="#2e2e2e"/>
+      <stop offset="1" stop-color="#111111"/>
+    </radialGradient>
+    <filter id="glow" x="-30%" y="-60%" width="160%" height="220%">
+      <feDropShadow dx="0" dy="0" stdDeviation="7" flood-color="#ffffff" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="188" height="42" rx="21" fill="url(#spot)" stroke="#ffffff" stroke-opacity="0.08" filter="url(#glow)"/>
+  <g transform="translate(26,14)">
+    <rect x="0" y="3" width="15" height="10.5" rx="2.2" stroke="#ffffff" stroke-width="1.5" fill="none"/>
+    <path d="M4.6 3V1.8A1.7 1.7 0 0 1 6.3 0.1h2.4a1.7 1.7 0 0 1 1.7 1.7V3M0 7h15" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+  </g>
+  <text x="53" y="27.5" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#ffffff" letter-spacing="0.2">More of my work</text>
+</svg>
